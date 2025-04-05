@@ -1,5 +1,4 @@
 # Real-Time-Weather-Dashboard
-Awesome! Here's a clean and professional **README.md** you can use for your Tableau-based Real-Time Weather Dashboard project:
 
 ---
 
